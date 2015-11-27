@@ -43,11 +43,8 @@ public class MainActivity extends FragmentActivity implements View.OnClickListen
                 ToastUtils.showToast(this,"addAction", Toast.LENGTH_SHORT);
 
                 break;
-
         }
-
     }
-
     @Override
     public void onCheckedChanged(RadioGroup group, int checkedId) {
         switch (checkedId){
