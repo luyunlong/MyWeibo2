@@ -11,7 +11,7 @@ import com.sina.weibo.sdk.auth.Oauth2AccessToken;
 
 
 /**
- * Created by luyunlong on 15/11/26.
+ * Created by luyunlong ron 15/11/26.
  */
 public class SplashActivity extends BaseActivity {
 

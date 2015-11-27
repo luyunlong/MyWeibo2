@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/luyunlong-mac/AndroidStudioProjects/MyWeibo2/uil/src/main/res"/><source path="/Users/luyunlong-mac/AndroidStudioProjects/MyWeibo2/uil/build/generated/res/rs/debug"/><source path="/Users/luyunlong-mac/AndroidStudioProjects/MyWeibo2/uil/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug"><source path="/Users/luyunlong-mac/AndroidStudioProjects/MyWeibo2/uil/src/debug/res"/></dataSet><mergedItems/></merger>
